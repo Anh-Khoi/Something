@@ -1,0 +1,9 @@
+E:\neet\C#\something\something\bin\Debug\something.exe.config
+E:\neet\C#\something\something\bin\Debug\something.exe
+E:\neet\C#\something\something\bin\Debug\something.pdb
+E:\neet\C#\something\something\obj\Debug\something.csprojResolveAssemblyReference.cache
+E:\neet\C#\something\something\obj\Debug\something.Form1.resources
+E:\neet\C#\something\something\obj\Debug\something.Properties.Resources.resources
+E:\neet\C#\something\something\obj\Debug\something.csproj.GenerateResource.Cache
+E:\neet\C#\something\something\obj\Debug\something.exe
+E:\neet\C#\something\something\obj\Debug\something.pdb
